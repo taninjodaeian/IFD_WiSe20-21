@@ -7,3 +7,9 @@
 <br>
 <a href="https://github.com/taninjodaeian/IFD_WiSe20-21/tree/main/Aufgabe%201">Aufgabe #01 The Wallet Project</a>
 <br>Stand: 20.10.2020, 22:55 Uhr
+<br>
+<a href="">Aufgabe #2.1 Prototyping Tool</a>
+<br>Stand:
+<br>
+<a href="">Aufgabe #2.2 Konzeptentwurf</a>
+<br>Stand:
