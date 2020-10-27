@@ -12,4 +12,4 @@
 <br>Stand: 27.10.2020, 22:40 Uhr
 <br>
 <a href="">Aufgabe #2.2 Konzeptentwurf</a>
-<br>Stand: gh uil
+<br>Stand:
