@@ -11,5 +11,5 @@
 <a href="https://github.com/taninjodaeian/IFD_WiSe20-21/blob/main/Aufgabe%202.1/Prototyping%20Tool.pdf">Aufgabe #2.1 Prototyping Tool</a>
 <br>Stand: 27.10.2020, 22:40 Uhr
 <br>
-<a href="">Aufgabe #2.2 Konzeptentwurf</a>
-<br>Stand:
+<a href="https://github.com/taninjodaeian/IFD_WiSe20-21/blob/main/Aufgabe%202.2/Konzeptentwürfe.pdf">Aufgabe #2.2 Konzeptentwurf</a>
+<br>Stand: 28.10.2020, 12:00 Uhr
