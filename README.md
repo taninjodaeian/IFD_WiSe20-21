@@ -13,3 +13,6 @@
 <br>
 <a href="https://github.com/taninjodaeian/IFD_WiSe20-21/blob/main/Aufgabe%202.2/Konzeptentwürfe.pdf">Aufgabe #2.2 Konzeptentwurf</a>
 <br>Stand: 28.10.2020, 12:00 Uhr
+<br>
+<a href="https://ga0vac.axshare.com">Aufgabe #03 Prototype</a>
+<br>Stand: 03.11.2020, 17:12 Uhr
