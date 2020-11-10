@@ -16,3 +16,6 @@
 <br>
 <a href="https://ga0vac.axshare.com">Aufgabe #03 Prototype</a>
 <br>Stand: 03.11.2020, 17:12 Uhr
+<br>
+<a href="https://github.com/taninjodaeian/IFD_WiSe20-21/blob/main/Aufgabe%20%2304.pdf">Aufgabe #04 Voice User Interface Konzept</a>
+<br>Stand: 10.11.2020, 12:00 Uhr
