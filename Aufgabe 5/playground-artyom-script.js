@@ -30,7 +30,7 @@ artyom.say(answer);
 }
 });
 artyom.addCommands({
-  indexes: ["Tschüss", "Auf Wiedersehen", "Ciao", "Bis bald"],
+  indexes: ["Tschüss", "Ciao", "Bis bald"],
   action: function () {
     const answer =
       'Auf Wiedersehen! Schönen Tag noch.';
