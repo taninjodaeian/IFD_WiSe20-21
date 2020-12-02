@@ -21,4 +21,6 @@
 <br>Stand: 10.11.2020, 12:00 Uhr
 <br>
 <a href="https://taninjodaeian.github.io/IFD_WiSe20-21/Aufgabe%205/tanin-artyom.html">Aufgabe #05 Link zum Sprachassistenten</a>
+<br>
+<a href="https://github.com/taninjodaeian/IFD_WiSe20-21/blob/main/Aufgabe%205/Screencast%20VUI.mov">Screencast Sprachassistent</a>
 <br>Stand: 02.12.2020, 12:00 Uhr
