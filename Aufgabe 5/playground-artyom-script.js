@@ -3,10 +3,10 @@ window.addEventListener("load", function () {
     var artyom = new Artyom();
 
         artyom.addCommands({
-          indexes: ["Hallo", "Hey", "Guten Morgen", "Guten Tag"],
+          indexes: ["Hallo", "Guten Morgen", "Guten Tag"],
           action: function () {
             const answer =
-              'Hallo, wie geht es dir heute?';
+              'Hey, wie geht es dir heute?';
               document.getElementById("answer").innerHTML = answer;
         artyom.say(answer);
 }
