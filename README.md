@@ -20,5 +20,5 @@
 <a href="https://github.com/taninjodaeian/IFD_WiSe20-21/blob/main/Aufgabe%20%2304.pdf">Aufgabe #04 Voice User Interface Konzept</a>
 <br>Stand: 10.11.2020, 12:00 Uhr
 <br>
-<a href="https://github.com/taninjodaeian/IFD_WiSe20-21/blob/main/Aufgabe%205/playground-artyom.html">Aufgabe #05 Link zum Sprachassistenten</a>
+<a href="https://taninjodaeian.github.io/IFD-WiSe20-21/Aufgabe5/playground-artyom.html">Aufgabe #05 Link zum Sprachassistenten</a>
 <br>Stand: 02.12.2020, 12:00 Uhr
