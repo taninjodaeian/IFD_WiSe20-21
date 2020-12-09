@@ -24,3 +24,6 @@
 <br>
 <a href="https://github.com/taninjodaeian/IFD_WiSe20-21/blob/main/Aufgabe%205/Screencast%20VUI.mov">Screencast Sprachassistent</a>
 <br>Stand: 02.12.2020, 12:00 Uhr
+<br>
+<a href="https://github.com/taninjodaeian/IFD_WiSe20-21/blob/main/Dokumentation%20VR%20Brille.pdf">Aufgabe #06 Dokumentation VR Brille</a>
+<br>Stand: 09.12.2020, 15:15 Uhr
