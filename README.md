@@ -27,3 +27,7 @@
 <br>
 <a href="https://github.com/taninjodaeian/IFD_WiSe20-21/blob/main/Dokumentation%20VR%20Brille.pdf">Aufgabe #06 Dokumentation VR Brille</a>
 <br>Stand: 09.12.2020, 15:15 Uhr
+<br>
+<a href="https://github.com/taninjodaeian/IFD_WiSe20-21/blob/main/Aufgabe%207/Storyboard%20VR%20Video.pdf">Aufgabe #07 Storyboard VR Video (in Zusammenarbeit mit Seher Bülbül)</a>
+<br>
+<a href="">Aufgabe #07 VR Video (in Zusammenarbeit mit Seher Bülbül)</a>
