@@ -31,3 +31,6 @@
 <a href="https://github.com/taninjodaeian/IFD_WiSe20-21/blob/main/Aufgabe%207/Storyboard%20VR%20Video.pdf">Aufgabe #07 Storyboard VR Video (in Zusammenarbeit mit Seher Bülbül)</a>
 <br>
 <a href="https://drive.google.com/file/d/1r8jteZ30u856oUxeWdGfY3TimOluZWQN/view?usp=sharing">Aufgabe #07 VR Video (in Zusammenarbeit mit Seher Bülbül)</a>
+<br>
+<a href="https://app.draftxr.com/vr/0wBECc">Aufgabe #08 VR Anwendung Prototype (in Zusammenarbeit mit Seher Bülbül)</a>
+<br>Stand: 05.01.2021, 19:00 Uhr
