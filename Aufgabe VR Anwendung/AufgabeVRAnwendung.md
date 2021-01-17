@@ -8,5 +8,5 @@ Probieren Sie es selbst aus! <br>
 <a href="https://app.draftxr.com/vr/0wBECc">zur VR Anwendung Prototyp</a>
 <br>
 <br>
-Aufgabe von Seher Bülbül und Tanin Jodaeian
+Aufgabe von <a href="https://github.com/SeherBuelbuel/IFD_WiSe20-21/blob/main/README.md">Seher Bülbül</a> und <a href="https://github.com/taninjodaeian/IFD_WiSe20-21/blob/main/README.md">Tanin Jodaeian</a>
 
