@@ -6,3 +6,7 @@ Nachdem die Interaktion ausgelöst wurde, kann man direkt auf den nächsten Raum
 Probieren Sie es selbst aus! <br>
 
 <a href="https://app.draftxr.com/vr/0wBECc">zur VR Anwendung Prototyp</a>
+<br>
+<br>
+Aufgabe von Seher Bülbül und Tanin Jodaeian
+
