@@ -33,5 +33,5 @@
 <a href="https://drive.google.com/file/d/1r8jteZ30u856oUxeWdGfY3TimOluZWQN/view?usp=sharing">Aufgabe #07 VR Video (in Zusammenarbeit mit Seher Bülbül)</a>
 <br>
 <br>
-<a href="https://github.com/taninjodaeian/IFD_WiSe20-21/blob/main/Aufgabe%20VR%20Anwendung/Aufgabe%20VR%20Anwendung">Aufgabe #08 VR Anwendung Prototype (in Zusammenarbeit mit Seher Bülbül)</a>
+<a href="https://github.com/taninjodaeian/IFD_WiSe20-21/blob/main/Aufgabe%20VR%20Anwendung/AufgabeVRAnwendung.md">Aufgabe #08 VR Anwendung Prototype (in Zusammenarbeit mit Seher Bülbül)</a>
 <br>
