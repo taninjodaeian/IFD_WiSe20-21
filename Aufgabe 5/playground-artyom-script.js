@@ -21,6 +21,26 @@ artyom.say(answer);
 }
 });
 artyom.addCommands({
+    indexes: ["*"],
+    action: function(i, wildcard){
+      const answer =
+      'Ich habe dich nicht verstanden. Kannst du dich wiederholen?';
+      document.getElementById("answer").innerHTML = answer;
+        artyom.say(answer);
+    }
+});
+artyom.addCommands({
+  indexes: ["Zeige meine Termine für diese Woche an" , "Zeige meine Termine für diesen Monat an"],
+  action: function () {
+    const answer =
+      'Hier wird dein Terminkalender angezeigt.';
+      document.getElementById("answer").innerHTML = answer;
+      artyom.say(answer);
+    const image = "<img src=image.JPG></img>"
+document.getElementById("showImage").innerHTML = image;
+}
+});
+artyom.addCommands({
   indexes: ["Danke"],
   action: function () {
     const answer =
@@ -89,6 +109,18 @@ artyom.addCommands({
         document.getElementById("answer").innerHTML = answer, wildcard;
     }
 });
+/*artyom.addCommands({
+    //The smart property of the command needs to be true
+    smart:true,
+    indexes: ["*"],
+    action: function(i, wildcard){
+        // Speak alterable value
+        const answer =
+          'Das habe ich nicht verstanden. Kannst du dich wiederholen?';
+        artyom.say(answer);
+        document.getElementById("answer").innerHTML = answer;
+    }
+});*/
 artyom.addCommands({
     //The smart property of the command needs to be true
     smart:true,
@@ -137,19 +169,6 @@ artyom.addCommands({
         document.getElementById("answer").innerHTML = answer, wildcard;
     }
 });
-
-/*
-artyom.addCommands({
-    //The smart property of the command needs to be true
-    smart:true,
-    indexes: ["Wann ist die nächste Veranstaltung?"],
-    action: function(i, wildcard){
-      const answer =
-      'Um 9:45 hast du Interface Design.';
-        artyom.say(answer);
-        document.getElementById("answer").innerHTML = answer;
-    }
-}); */
 
     function startContinuousArtyom() {
         artyom.fatality();
