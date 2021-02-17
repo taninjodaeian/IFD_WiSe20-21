@@ -53,6 +53,20 @@ background: linear-gradient(90deg, rgba(178,190,245,1) 0%, rgba(240,195,255,1) 1
   height: auto;
 }
 .flex-container {
+display: flex;
+align-content: flex-start;
+text-align: left;
+background: rgb(178,190,245);
+background: linear-gradient(90deg, rgba(178,190,245,1) 0%, rgba(240,195,255,1) 100%);
+padding: 25px;
+border-radius: 25px;
+padding: 20px;
+margin-left: 300px;
+margin-right: 300px;
+width: auto;
+height: auto;
+}
+.flex-container1 {
 	display: flex;
 	align-content: flex-start;
 	justify-content: center;

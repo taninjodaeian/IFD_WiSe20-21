@@ -20,15 +20,22 @@ artyom.addCommands({
 artyom.say(answer);
 }
 });
-artyom.addCommands({
-    indexes: ["*"],
-    action: function(i, wildcard){
-      const answer =
-      'Ich habe dich nicht verstanden. Kannst du dich wiederholen?';
+/*artyom.addCommands({
+  indexes: ["Link für Interface Design"],
+  action: function () {
+    const answer =
+      '<a href="https://app.alfaview.com/#/join/hochschule-furtwangen-furtwangen-university/caadd74b-9b3a-46a8-9ad3-a6589aff15a5/09eaeaa2-4265-4346-8a4a-00940ad0051b">Alfaview DM-17</a>';
       document.getElementById("answer").innerHTML = answer;
-        artyom.say(answer);
-    }
+artyom.say(answer);
+}
+}); */
+artyom.when("NOT_COMMAND_MATCHED", function(){
+  const answer =
+    'Das habe ich leider nicht verstanden. Kannst du dich bitte wiederholen?';
+    document.getElementById("answer").innerHTML = answer;
+artyom.say(answer);
 });
+
 artyom.addCommands({
   indexes: ["Zeige meine Termine für diese Woche an" , "Zeige meine Termine für diesen Monat an"],
   action: function () {
@@ -109,18 +116,7 @@ artyom.addCommands({
         document.getElementById("answer").innerHTML = answer, wildcard;
     }
 });
-/*artyom.addCommands({
-    //The smart property of the command needs to be true
-    smart:true,
-    indexes: ["*"],
-    action: function(i, wildcard){
-        // Speak alterable value
-        const answer =
-          'Das habe ich nicht verstanden. Kannst du dich wiederholen?';
-        artyom.say(answer);
-        document.getElementById("answer").innerHTML = answer;
-    }
-});*/
+
 artyom.addCommands({
     //The smart property of the command needs to be true
     smart:true,
