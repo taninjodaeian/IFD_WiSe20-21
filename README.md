@@ -39,7 +39,7 @@
 <a href="https://github.com/taninjodaeian/IFD_WiSe20-21/blob/main/Aufgabe%20VR%20Anwendung/AufgabeVRAnwendung.md">VR Anwendung Prototype (in Zusammenarbeit mit Seher Bülbül)</a>
 <br>
 ### Prüfungsaufgabe 
-<a href="https://github.com/taninjodaeian/IFD_WiSe20-21/blob/main/README.md">Dokument: Weiterentwicklung des VUIs</a>
+<a href="https://github.com/taninjodaeian/IFD_WiSe20-21/blob/main/Pr%C3%BCfungsaufgabe/IFD%20Pr%C3%BCfungsaufgabe.pdf">Dokument: Weiterentwicklung des VUIs</a>
 <br>
 <a href="https://taninjodaeian.github.io/IFD_WiSe20-21/Aufgabe%205/tanin-artyom.html">Link zum VUI</a>
 <br>
