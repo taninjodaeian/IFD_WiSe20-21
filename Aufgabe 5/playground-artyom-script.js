@@ -182,7 +182,7 @@ artyom.addCommands({
     }
     startContinuousArtyom();
     const answer =
-      'Willkommen zu Tanins Sprachassistenten. Kann ich dir heute behilflich sein?';
+      'Willkommen zu Tanins Sprachassistenten. Du kannst sofort loslegen indem du eines der aufgelisteten Anweisungen äußerst.';
     artyom.say(answer);
     artyom.redirectRecognizedTextOutput(function (recognized, isFinal) {
       if (isFinal) {
